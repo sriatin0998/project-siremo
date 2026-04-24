@@ -22,3 +22,8 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+*siremo_key*
+siremo_key.pub
+*polindra*
+*key*
+*.pem
